@@ -133,6 +133,8 @@ img {
 .hero {
   background-color: var(--background-color);
   text-align: center;
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
 .hero-title {
   font-weight: 900;
@@ -195,6 +197,9 @@ img {
 }
 .benefits-item {
   width: 270px;
+}
+.benefits {
+  padding-bottom: 0;
 }
 
 /* ACTIVITY */
